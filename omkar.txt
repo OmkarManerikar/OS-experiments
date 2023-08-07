@@ -1,0 +1,198 @@
+Script started on Wednesday 02 August 2023 11:59:47 AM IST
+]0;softcomputing@softcomputing: ~/Desktop/211105038[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038[00m$ cd [K[K[Kmkdi[Kir GEc[KC
+]0;softcomputing@softcomputing: ~/Desktop/211105038[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038[00m$ cd GEC
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC[00m$ mdk[K[Kkdit[Kr comp civil e[Kmech[K]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC[00m$ mkdir comp civil mech etc ene it
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC[00m$ ls
+[0m[01;34mcivil[0m  [01;34mcomp[0m  [01;34mene[0m  [01;34metc[0m  [01;34mit[0m  [01;34mmech[0m
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC[00m$ cd comp
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC/comp[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC/comp[00m$ mkdir se te be
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC/comp[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC/comp[00m$ cd te
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC/comp/te[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC/comp/te[00m$ mkdir os dbs[Kms ai
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC/comp/te[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC/comp/te[00m$ cd os
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC/comp/te/os[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC/comp/te/os[00m$ mkdir ex assign[K
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC/comp/te/os[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC/comp/te/os[00m$ cd ex
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC/comp/te/os/ex[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC/comp/te/os/ex[00m$ touch file1 file2 file3 file4 file5 file 6[K[K[Kr[Ke6 file 7 [K[K[K7 file8 fike[K[Kle9 file10
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC/comp/te/os/ex[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC/comp/te/os/ex[00m$ cd..
+cd..: command not found
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC/comp/te/os/ex[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC/comp/te/os/ex[00m$ cd.. ..
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC/comp/te/os[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC/comp/te/os[00m$ cd ad[Kssig
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC/comp/te/os/assig[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC/comp/te/os/assig[00m$ cd assig[3P..[1P..touch file1 file2 file3 file4 file5 file6 file7 file8 file9 file10[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC/comp/te/os/assig[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC/comp/te/os/assig[00m$ ls
+file1  file2  file3  file4
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC/comp/te/os/assig[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC/comp/te/os/assig[00m$ cd ../../..
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC/comp[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC/comp[00m$ ..[K[Kcd ..
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC[00m$ GEC[K[K[Kcd vi[K[Kcivil
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC/civil[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC/civil[00m$ mkdir se te d[Kbe
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC/civil[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC/civil[00m$ cs ../ene
+The program 'cs' is currently not installed. You can install it by typing:
+sudo apt install csound
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC/civil[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC/civil[00m$ cs ../ene[1P ../ened ../ene
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC/ene[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC/ene[00m$ mkdir project internship
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC/ene[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC/ene[00m$ cd project
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC/ene/project[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC/ene/project[00m$ mkdir [K[K[K[K[K[Krough[K[Kc[K[K[K[Ktouch file1 file2
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC/ene/project[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC/ene/project[00m$ ls
+file1  file2
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC/ene/project[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC/ene/project[00m$ cd ..
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC/ene[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC/ene[00m$ internship
+internship: command not found
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC/ene[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC/ene[00m$ internshipcinternshipdinternship internship
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC/ene/internship[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC/ene/internship[00m$ mkdir[K[K[K[K[Kt[Ktouch file1
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC/ene/internship[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC/ene/internship[00m$ cd ../../../
+]0;softcomputing@softcomputing: ~/Desktop/211105038[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038[00m$ cd GEC
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC[00m$ tre[K[K[Kcd ..
+]0;softcomputing@softcomputing: ~/Desktop/211105038[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038[00m$ tree
+[01;34m.[00m
+├── [01;34mGEC[00m
+│   ├── [01;34mcivil[00m
+│   │   ├── [01;34mbe[00m
+│   │   ├── [01;34mse[00m
+│   │   └── [01;34mte[00m
+│   ├── [01;34mcomp[00m
+│   │   ├── [01;34mbe[00m
+│   │   ├── [01;34mse[00m
+│   │   └── [01;34mte[00m
+│   │       ├── [01;34mai[00m
+│   │       ├── [01;34mdbms[00m
+│   │       └── [01;34mos[00m
+│   │           ├── [01;34massig[00m
+│   │           │   ├── file1
+│   │           │   ├── file2
+│   │           │   ├── file3
+│   │           │   └── file4
+│   │           └── [01;34mex[00m
+│   │               ├── file1
+│   │               ├── file10
+│   │               ├── file2
+│   │               ├── file3
+│   │               ├── file4
+│   │               ├── file5
+│   │               ├── file6
+│   │               ├── file7
+│   │               ├── file8
+│   │               └── file9
+│   ├── [01;34mene[00m
+│   │   ├── [01;34minternship[00m
+│   │   │   └── file1
+│   │   └── [01;34mproject[00m
+│   │       ├── file1
+│   │       └── file2
+│   ├── [01;34metc[00m
+│   ├── [01;34mit[00m
+│   └── [01;34mmech[00m
+└── omkar.txt
+
+20 directories, 18 files
+]0;softcomputing@softcomputing: ~/Desktop/211105038[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038[00m$ touch copy[K[K[K[K[K[K[K[K[K[Kcp omkar.txt filc[Keco[Kco[K[Komp.txt
+]0;softcomputing@softcomputing: ~/Desktop/211105038[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038[00m$ tree
+[01;34m.[00m
+├── filecomp.txt
+├── [01;34mGEC[00m
+│   ├── [01;34mcivil[00m
+│   │   ├── [01;34mbe[00m
+│   │   ├── [01;34mse[00m
+│   │   └── [01;34mte[00m
+│   ├── [01;34mcomp[00m
+│   │   ├── [01;34mbe[00m
+│   │   ├── [01;34mse[00m
+│   │   └── [01;34mte[00m
+│   │       ├── [01;34mai[00m
+│   │       ├── [01;34mdbms[00m
+│   │       └── [01;34mos[00m
+│   │           ├── [01;34massig[00m
+│   │           │   ├── file1
+│   │           │   ├── file2
+│   │           │   ├── file3
+│   │           │   └── file4
+│   │           └── [01;34mex[00m
+│   │               ├── file1
+│   │               ├── file10
+│   │               ├── file2
+│   │               ├── file3
+│   │               ├── file4
+│   │               ├── file5
+│   │               ├── file6
+│   │               ├── file7
+│   │               ├── file8
+│   │               └── file9
+│   ├── [01;34mene[00m
+│   │   ├── [01;34minternship[00m
+│   │   │   └── file1
+│   │   └── [01;34mproject[00m
+│   │       ├── file1
+│   │       └── file2
+│   ├── [01;34metc[00m
+│   ├── [01;34mit[00m
+│   └── [01;34mmech[00m
+└── omkar.txt
+
+20 directories, 19 files
+]0;softcomputing@softcomputing: ~/Desktop/211105038[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038[00m$ cd GEC
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC[00m$ tee[K[Kree
+[01;34m.[00m
+├── [01;34mcivil[00m
+│   ├── [01;34mbe[00m
+│   ├── [01;34mse[00m
+│   └── [01;34mte[00m
+├── [01;34mcomp[00m
+│   ├── [01;34mbe[00m
+│   ├── [01;34mse[00m
+│   └── [01;34mte[00m
+│       ├── [01;34mai[00m
+│       ├── [01;34mdbms[00m
+│       └── [01;34mos[00m
+│           ├── [01;34massig[00m
+│           │   ├── file1
+│           │   ├── file2
+│           │   ├── file3
+│           │   └── file4
+│           └── [01;34mex[00m
+│               ├── file1
+│               ├── file10
+│               ├── file2
+│               ├── file3
+│               ├── file4
+│               ├── file5
+│               ├── file6
+│               ├── file7
+│               ├── file8
+│               └── file9
+├── [01;34mene[00m
+│   ├── [01;34minternship[00m
+│   │   └── file1
+│   └── [01;34mproject[00m
+│       ├── file1
+│       └── file2
+├── [01;34metc[00m
+├── [01;34mit[00m
+└── [01;34mmech[00m
+
+19 directories, 17 files
+]0;softcomputing@softcomputing: ~/Desktop/211105038/GEC[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038/GEC[00m$ ch[K[Kcd.[K ..
+]0;softcomputing@softcomputing: ~/Desktop/211105038[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038[00m$ \[Kls
+[0m[01;34mGEC[0m  omkar.txt
+]0;softcomputing@softcomputing: ~/Desktop/211105038[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038[00m$ ls
+[0m[01;34mGEC[0m  omkar.txt
+]0;softcomputing@softcomputing: ~/Desktop/211105038[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038[00m$ ld -l omkar.txt
+ld: cannot find -lomkar.txt
+]0;softcomputing@softcomputing: ~/Desktop/211105038[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038[00m$ ld -l omkar.txts[Kcd ..[1Ptreecd GEC[2Ptreecd ..[3Plsd -l omkar.txt[1P[1@s
+-rw-rw-r-- 1 softcomputing softcomputing 12288 Aug  2 12:12 omkar.txt
+]0;softcomputing@softcomputing: ~/Desktop/211105038[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038[00m$ ls [K[K[Kls 765 omkar.txrt[K[Kt
+ls: cannot access '765': No such file or directory
+omkar.txt
+]0;softcomputing@softcomputing: ~/Desktop/211105038[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038[00m$ ls 765 omkar.txt[C[1@ [1@-[1@l[C[1@ 
+ls: cannot access '765': No such file or directory
+-rw-rw-r-- 1 softcomputing softcomputing 12288 Aug  2 12:12 omkar.txt
+]0;softcomputing@softcomputing: ~/Desktop/211105038[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038[00m$ ls -l  765 omkar.txt[1P
+ls: cannot access '765': No such file or directory
+-rw-rw-r-- 1 softcomputing softcomputing 12288 Aug  2 12:12 omkar.txt
+]0;softcomputing@softcomputing: ~/Desktop/211105038[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038[00m$ ls -l 765 omkar.txt[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1@c[1@h[1@m[1@o[1@d[C[1@ [1P
+]0;softcomputing@softcomputing: ~/Desktop/211105038[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038[00m$ lschmod 765 omkar.txtls -l[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pomkar.txt[1Pomkar.txt[1Pomkar.txt[1Pomkar.txt
+-rwxrw-r-x 1 softcomputing softcomputing 12288 Aug  2 12:12 [0m[01;32momkar.txt[0m
+]0;softcomputing@softcomputing: ~/Desktop/211105038[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038[00m$ chmod g+w omkar.txt
+]0;softcomputing@softcomputing: ~/Desktop/211105038[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038[00m$ chmod g+w omkar.txt[4Pls -l[C[C[C[C[C[C[C[C[C[C[4@chmod 765[C[C[C[C[C[C[C[C[C[C[4Pls -l[C[C[C[C[C[C[C[C[C[C
+-rwxrw-r-x 1 softcomputing softcomputing 12288 Aug  2 12:12 [0m[01;32momkar.txt[0m
+]0;softcomputing@softcomputing: ~/Desktop/211105038[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038[00m$ ls -l omkar.txt[4@chmod g+w[C[C[C[C[C[C[C[C[C[C[1P omkar.txtx omkar.txt
+]0;softcomputing@softcomputing: ~/Desktop/211105038[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038[00m$ chmod g+x omkar.txt[4Pls -l[C[C[C[C[C[C[C[C[C[C[4@chmod g+w[C[C[C[C[C[C[C[C[C[C[4Pls -l[C[C[C[C[C[C[C[C[C[C
+-rwxrwxr-x 1 softcomputing softcomputing 12288 Aug  2 12:12 [0m[01;32momkar.txt[0m
+]0;softcomputing@softcomputing: ~/Desktop/211105038[01;32msoftcomputing@softcomputing[00m:[01;34m~/Desktop/211105038[00m$ ls -l omkar.txt[4@chmod g+x[C[C[C[C[C[C[C[C[C[C[C[1P[1@-[C[1P omkar.txtw omkar.txt
+]0;softcomputing@soft
